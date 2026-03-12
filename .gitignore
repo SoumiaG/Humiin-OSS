@@ -1,0 +1,10 @@
+# Environments
+.env
+
+# Audio outputs
+*.wav
+*.mp3
+
+# Python caches
+__pycache__/
+*.pyc
