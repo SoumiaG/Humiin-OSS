@@ -1,4 +1,4 @@
-# 👑 humiin-OSS: Multi-Agent Audio Orchestrator (The Bridgerton Debate)
+# 👑 humiin-OSS: Multi-Agent Audio Orchestrator (The High Tech Court Debate)
 
 Welcome to the **humiin-OSS** repository! This project demonstrates how to orchestrate a multi-agent AI debate (featuring Gemini and Claude) and output it as a high-fidelity, native audio `.wav` file, entirely bypassing common WebSocket lockouts and Free-Tier rate limits.
 
